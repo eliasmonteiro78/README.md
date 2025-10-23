@@ -3,7 +3,7 @@
 ## 👋 Sobre Mim
 Olá! Eu sou **Elias Alves Monteiro**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **tecnologia** e **desenvolvimento backend**.  
 
-Tenho experiência em **Java, Python (Básico) e C#**, além de conhecimentos avançados em **Excel** e **Word**. Estou sempre em busca de **aprender novas tecnologias**, criar **soluções práticas** e contribuir para **projetos que fazem a diferença**.  
+Tenho experiência em **Java, Python (Básico) e C# (Básico)**, além de conhecimentos avançados em **Excel** e **Word**. Estou sempre em busca de **aprender novas tecnologias**, criar **soluções práticas** e contribuir para **projetos que fazem a diferença**.  
 Meu foco é entregar **código limpo, eficiente e escalável**.
 
 ---
@@ -13,7 +13,7 @@ Meu foco é entregar **código limpo, eficiente e escalável**.
 ### Linguagens de Programação
 [![Java](https://img.shields.io/badge/Java-Intermediário-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-Intermediário-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-Básico-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
 ### Ferramentas
 [![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
